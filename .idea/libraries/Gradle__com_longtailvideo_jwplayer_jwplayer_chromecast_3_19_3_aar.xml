@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.longtailvideo.jwplayer:jwplayer-chromecast:3.19.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29863bb24775505f7446067f79456bc0/jetified-jwplayer-chromecast-3.19.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29863bb24775505f7446067f79456bc0/jetified-jwplayer-chromecast-3.19.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29863bb24775505f7446067f79456bc0/jetified-jwplayer-chromecast-3.19.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
